@@ -9,7 +9,7 @@
 
 ## 🌐 Website
 
-- [🌐 My GitHub Page (CV+Projects)](https://xiaojjinzi.github.io)
+- [🌐 My GitHub Page (CV+Projects)](https://timothythedev.github.io)
 
 
 ## Badges
