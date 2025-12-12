@@ -1,9 +1,10 @@
-# Hello! Glad to sse you here, I'm 
+# Hello! Glad to see you here, I'm 
 
 🎯 Infra & Cloud Engineer
 
 🧠 Focus: OS, Distributed Systems, System Programming, Blockchain  
 
+If you share any topic of the fields I'm intersted in, please feel free to connect!
 
 ---
 
