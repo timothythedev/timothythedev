@@ -9,8 +9,7 @@ If you share any topic of the fields I'm intersted in, please feel free to conne
 ---
 
 ## 🌐 Website
-
-- [🌐 My GitHub Page (CV+Projects)](https://timothythedev.github.io)
+- [Blog](https://mojiaweng-blog.pages.dev/)
 
 
 ## Badges
